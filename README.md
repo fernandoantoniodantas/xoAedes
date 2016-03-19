@@ -5,8 +5,6 @@
 
 ##Descrição:
  Esse aplicativo tem como objetivo principal informar e ensinar aos usuários, o que são as doenças transmitidas pelo aedes aegypti, como prevenir e quais são os sintomas.
-# Requisitos projeto final
-O app deverá cumprir os mínimos requisitos citados abaixo.
 
 ##Descrição técnica
  * O app foi construído usando um Navigation Drawer layout.
