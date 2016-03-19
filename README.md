@@ -5,7 +5,7 @@
 ##Descrição:
  Esse aplicativo tem como objetivo principal informar e ensinar aos usuários, o que são as doenças transmitidas pelo aedes aegypti, como prevenir e quais são os sintomas.
 
-##Descrição técnica
+##Descrição técnica:
  * O app foi construído usando um Navigation Drawer layout.
  * Com uma MainAcitivy usando 5 fragment layouts e outra Intent.
  * Ao deslizar para a direita o usuário terá um Navigation Drawer Layout com
@@ -14,11 +14,11 @@
  * Também terá outra Intent informando a versão e o motivo da construção do aplicativo,
  * E ainda ter um item de Menu no qual o usuário poderá enviar e-mail com um pequeno resumo e mais informações sobre o mosquito e suas doenças.
  
-##Idiomas Disponíveis
+##Idiomas Disponíveis:
  * Português 
  * Inglês
 
-##Requisitos Utilizados
+##Requisitos Utilizados:
 ###ViewGroups Utilizados:
  * LinearLayout
  * RelativeLayout
@@ -29,11 +29,11 @@
  * Swipe
  * Click em item de menu
  
-###Utilização de Intent e Variáveis
+###Utilização de Intent e Variáveis:
 
  * O aplicativo utilizar dois Intents e 5 fragments 
  * Utiliza-se variáveis
  
-###Utilização de Imagens
+###Utilização de Imagens:
  * Todos os fragments tem imagens, além do ícone modificado do app e também ícones do
 material design no Navigation Drawer.
