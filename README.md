@@ -24,10 +24,11 @@
  * RelativeLayout
  * FrameLayout
  * CoordinatorLayout
- * 
+ 
 ###Interações:
  * Swipe
  * Click em item de menu
+ 
 ###Utilização de Intent e Variáveis
 
  * O aplicativo utilizar dois Intents e 5 fragments 
