@@ -13,6 +13,7 @@
  * Cada fragment tem informações para que o usuário aprenda a lidar contra o mosquito.
  * Também terá outra Intent informando a versão e o motivo da construção do aplicativo,
  * E ainda ter um item de Menu no qual o usuário poderá enviar e-mail com um pequeno resumo e mais informações sobre o mosquito e suas doenças.
+ 
 ##Idiomas Disponíveis
  * Português 
  * Inglês
@@ -31,5 +32,4 @@ Utilização de Intent e Variáveis
  * Utiliza-se o uso de variáveis
 Utilização de Imagens
  * Todos os fragments tem imagens, além do ícone modificado do app e também ícones do
-material design no Navigation Drawer
-
+material design no Navigation Drawer.
