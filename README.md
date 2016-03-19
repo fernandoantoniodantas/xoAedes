@@ -1,8 +1,7 @@
 #Xô Aedes
 ##Visão Geral
 
-[img]http://i.imgur.com/HiJ83ju.gif[/img]
-
+![demo](screenshots/gif_app.gif)
 
 ##Descrição:
  Esse aplicativo tem como objetivo principal informar e ensinar aos usuários, o que são as doenças transmitidas pelo aedes aegypti, como prevenir e quais são os sintomas.
