@@ -32,7 +32,7 @@
 ###Utilização de Intent e Variáveis
 
  * O aplicativo utilizar dois Intents e 5 fragments 
- * Utiliza-se o uso de variáveis
+ * Utiliza-se variáveis
  
 ###Utilização de Imagens
  * Todos os fragments tem imagens, além do ícone modificado do app e também ícones do
