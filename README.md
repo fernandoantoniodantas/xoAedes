@@ -1,6 +1,5 @@
 #Xô Aedes
 ##Visão Geral
-
 ![demo](screenshots/gif_app.gif)
 
 ##Descrição:
@@ -14,7 +13,6 @@
  * Cada fragment tem informações para que o usuário aprenda a lidar contra o mosquito.
  * Também terá outra Intent informando a versão e o motivo da construção do aplicativo,
  * E ainda ter um item de Menu no qual o usuário poderá enviar e-mail com um pequeno resumo e mais informações sobre o mosquito e suas doenças.
-
 ##Idiomas Disponíveis
  * Português 
  * Inglês
