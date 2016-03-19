@@ -1,7 +1,7 @@
 #Xô Aedes
 ##Visão Geral
 
-[Imgur](http://i.imgur.com/HiJ83ju.gifv)
+[img]http://i.imgur.com/HiJ83ju.gif[/img]
 
 
 ##Descrição:
