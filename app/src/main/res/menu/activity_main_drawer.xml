@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_principal"
+            android:title="@string/title_principal" />
+
+        <item
+            android:id="@+id/nav_dengue"
+            android:title="@string/title_dengue" />
+
+        <item
+            android:id="@+id/nav_chikungunya"
+            android:title="@string/title_chikungunya" />
+        <item
+            android:id="@+id/nav_zika"
+            android:title="@string/title_zika" />
+        <item
+            android:id="@+id/nav_prevencao"
+            android:title="@string/title_prevencao" />
+
+    </group>
+
+    <item android:title="@string/title_comunicar">
+        <menu>
+            <item
+                android:id="@+id/nav_sobre"
+                android:icon="@drawable/ic_info_black"
+                android:title="@string/title_sobre" />
+            <item
+                android:id="@+id/nav_enviar"
+                android:icon="@drawable/ic_mail"
+                android:title="@string/title_enviar" />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Xô Aedes</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Fragment Dengue-->
+    <string name="p_oque_e_dengue">What is dengue??</string>
+    <string name="r_oque_e_dengue">\t Dengue is a viral disease transmitted by the mosquito Aedes aegypti.In Brazil, it was first identified in 1986. It is estimated that 50 million dengue infections occurring annually worldwide.</string>
+    <string name="p_quais_sao_os_sintomas_dengue">What are the symptoms?</string>
+    <string name="r_quais_sao_os_sintomas_dengue">\t The dengue infection may be asymptomatic, mild or cause serious illness leading to death. Usually the first symptoms of dengue are high fever (39 ° to 40 ° C), abrupt onset, which usually lasts 2 to 7 days accompanied by headache, body aches and joints, prostration, weakness, pain behind the eyes, rash and itchy skin.\n
+\tWeight loss, nausea and vomiting are common. In the initial febrile phase of the disease can be difficult to differentiate it. The severe form of the disease include intense and continuous abdominal pain, persistent vomiting, mucosal bleeding, among other symptoms.\n
+\tIn presenting the symptoms, it is important to seek a health service.</string>
+    <string name="p_como_e_o_tratamento_dengue">What is the treatment for dengue?</string>
+    <string name="r_como_e_o_tratamento_dengue">\t There is no specific treatment for dengue. Treatment is to relieve symptoms When the symptoms, it is important to seek a health service nearest to rest and drink plenty of fluids. Important not to take medicines on their own.</string>
+
+    <!-- Fragment Chikungunya-->
+    <string name="p_oque_e_chikungunya">What is Chikungunya?</string>
+    <string name="r_oque_e_chikungunya">\tThe Chikungunya fever is a disease transmitted by mosquitoes Aedes aegypti and Aedes albopictus. In Brazil, the circulation of the virus was first identified in 2014. Chikungunya means \'those that fold\' in Swahili, one of Tanzania\'s languages. It refers to the curved appearance of the patients who were treated at the first documented epidemic,
+         Tanzania, located in East Africa, between 1952 and 1953.</string>
+    <string name="p_quais_sao_os_sintomas_chikungunya">What are the symptoms?</string>
+    <string name="r_quais_sao_os_sintomas_chikungunya">\t The main symptoms are high fever rapid onset, severe pain in the joints of the feet and hands, and fingers, ankles and wrists. There may also be headache, pain in muscles and red spots on the skin. It is not possible to have chikungunya more than once. Once infected, the person is immune for life. Symptoms begin two to twelve days after the mosquito bite.
+         The mosquito acquires the CHIKV virus by biting an infected person,
+         during the period in which the virus is present in infected organism. Approximately 30% of patients have no symptoms.</string>
+    <string name="p_como_e_o_tratamento_chikungunya">How is it treated?</string>
+    <string name="r_como_e_o_tratamento_chikungunya">\tThere is no vaccine or specific treatment for Chikungunya. The symptoms are treated with medication for fever (paracetamol) and joint pain (anti-inflammatory). It is not recommended to use acetylsalicylic acid (ASA) because of the risk of bleeding. It is recommended complete rest to the patient, which should drink plenty of fluids.</string>
+
+
+    <!-- Fragment Zika-->
+    <string name="p_oque_e_zika">What is Zika?</string>
+    <string name="r_oque_e_zika">\t The Zika is a virus transmitted by Aedes aegypti and first identified in Brazil in April 2015. Zika virus was given the same name of the place of origin of its identification in 1947, after detection in sentinel monkeys for monitoring of yellow fever in Zika forest in Uganda.</string>
+    <string name="p_quais_sao_os_sintomas_zika">What are the symptoms?</string>
+    <string name="r_quais_sao_os_sintomas_zika">\tAbout 80% of people infected by Zika virus do not develop clinical manifestations. The main symptoms are headache, low fever, mild joint pain, red spots on the skin, itching and redness in the eyes. Other less common symptoms are swelling in the body, sore throat, coughing and vomiting. Overall, the evolution of the disease is benign and the symptoms disappear spontaneously after 3 to 7 days. However, joint pain may persist for approximately one month. severe and atypical forms are rare, but when there may exceptionally lead to death, as identified in November 2015, for the first time in history.\n
+    \t Note the appearance of signs and symptoms of Zika virus infection and seek a health service for care, if necessary.</string>
+    <string name="p_como_e_o_tratamento_zika">What is the treatment? </string>
+    <string name="r_como_e_o_tratamento_zika">\tThere is no specific treatment for the infection Zika virus. There is no vaccine against the virus. The recommended treatment for symptomatic cases is based on the use of acetaminophen (paracetamol) and dipyrone to control fever and pain management. In the case of an itchy rash, antihistamines may be considered.\n
+    \t Not recommended the use of acetylsalicylic acid (ASA) and other anti-inflammatory drugs, due to the increased risk of bleeding complications described in other flavivirus infections. Suspected cases should be treated as dengue, due to their greater frequency and severity known.</string>
+
+    <!-- Fragment Prevenção-->
+    <string name="p_prevencao_protecao">Prevention / Protection</string>
+    <string name="r_prevencao_protecao">
+        \tThe only way of prevention is to eliminate the mosquito, keeping always clean home, eliminating potential breeding grounds. Clothes that minimize skin exposure during the day when mosquitoes are most active, provide some protection to the bites and can be mainly adopted during outbreaks. Repellents and insecticides may also be used according to label directions. Mosquito nets provide good protection for those who sleep during the day (for example, babies, bedridden and night workers).\n
+\tIt is essential that people strengthen measures to eliminate the mosquito breeding grounds in their homes and neighborhood. When there is notification of suspected cases, the Municipal Health should adopt disposal of shares of mosquito outbreaks in areas near the residence and the site of patient care.
+</string>
+
+
+    <!-- Fragment Principal-->
+    <string name="p_oque_e_aedes">Aedes aegypti</string>
+    <string name="r_oque_e_aedes">
+        \tAedes (Stegomyia) aegypti (Greek aedes "odious" and Aegypti from the Latin "Egypt") is the nomenclature Taxonomic for the mosquito that is popularly known as mosquito-of-dengue or stilt-brindle, a species of mosquito family Culicidae from Africa, currently spread over almost the entire world, especially in tropical and subtropical regions, being dependent on human concentration in place to settle.\n
+        \tThe mosquito is well adapted to urban areas, specifically to human dwellings, which can reproduce and lay their eggs in small quantities of clean, still water, that is, poor in decaying organic matter and salts (which confer acidic characteristics water), which preferably are shaded and outdoors.\n
+        \tFemales, to perform the biting, can go up to 2 500 m. It is considered vector of serious diseases such as dengue, yellow fever, and chikungunya fever zica. The control of their populations is considered issue of public health.\n
+ </string>
+    <string name="title_activity_about">About</string>
+
+    <!-- Menu - Activity Main Drawer-->
+    <string name="title_principal">Main</string>
+    <string name="title_dengue">Dengue</string>
+    <string name="title_zika">Zika</string>
+    <string name="title_chikungunya">Chikungunya</string>
+    <string name="title_prevencao">Prevention / Protection</string>
+    <string name="title_comunicar">Communicate</string>
+    <string name="title_sobre">About</string>
+    <string name="title_enviar">Send Content</string>
+
+
+    <string name="versao">Version 1.0.0</string>
+    <string name="info">Application built for Android Study Jam 2016 course held in Maceió, Alagoas.</string>
+</resources>
