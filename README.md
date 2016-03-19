@@ -19,17 +19,17 @@
  * Inglês
 
 ##Requisitos Utilizados
-ViewGroups Utilizados:
+###ViewGroups Utilizados:
  * LinearLayout
  * RelativeLayout
  * FrameLayout
  * CoordinatorLayout
-Interações:
+###Interações:
  * Swipe
  * Click em item de menu
-Utilização de Intent e Variáveis
+###Utilização de Intent e Variáveis
  * O aplicativo utilizar dois Intents e 5 fragments 
  * Utiliza-se o uso de variáveis
-Utilização de Imagens
+###Utilização de Imagens
  * Todos os fragments tem imagens, além do ícone modificado do app e também ícones do
 material design no Navigation Drawer.
