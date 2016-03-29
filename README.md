@@ -11,7 +11,7 @@
  * Ao deslizar para a direita o usuário terá um Navigation Drawer Layout com
  * 5 itens de menu cada um ao ser clicado irá mostrar um fragment diferente.
  * Cada fragment tem informações para que o usuário aprenda a lidar contra o mosquito.
- * Também terá outra Intent informando a versão e o motivo da construção do aplicativo,
+ * Também terá outra Intent informando a versão e o motivo da construção do aplicativo.
  * E ainda ter um item de Menu no qual o usuário poderá enviar e-mail com um pequeno resumo e mais informações sobre o mosquito e suas doenças.
  
 ##Idiomas Disponíveis:
